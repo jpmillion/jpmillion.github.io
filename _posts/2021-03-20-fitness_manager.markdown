@@ -7,7 +7,7 @@ permalink:  fitness_manager
 
 #### Fitness Manager
 
->  The Fitness Manager application allows athletes to create
+The Fitness Manager application allows athletes to create
 a variety of workouts.  There are three different categories
 (Strength, Plyometric, and Speed & Agility) to select from when
 choosing exercises.  Clicking on the name of an exercise will 
@@ -16,7 +16,7 @@ create as many workouts as they want.  Workouts must have
 between 1 and 6 exercises.  An Athlete can log in or register
 by simply entering a unique username.
 
-> Future upgrades include being able to create and update
+Future upgrades include being able to create and update
 exercises and their attributes such as name and video url.  Also,
 creating and editing categories and their attributes.  These 
 upgrades will allow an Athlete to customize there page if the 
